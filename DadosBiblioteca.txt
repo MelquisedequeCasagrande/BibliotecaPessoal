@@ -1,0 +1,7 @@
+Livro, 1, HarryPotter, EMPRESTADO, J.K Rowling, 300
+Livro, 2, SunTzu A arte da guerra, DISPONIVEL, Sun Tzu, 250
+Manga, 3, Naruto, DISPONIVEL, Masashi Kishimoto, 190
+Manga, 4, Dragon Ball, DISPONIVEL, Akira Toriyama, 200
+Gibi, 5, Turma da Monica, DISPONIVEL, Mauricio de Souza, 24
+Gibi, 6, Homem Aranha, DISPONIVEL, Stan Lee, 352
+Gibi, 7, Teste, DANIFICADO, Teste, 150

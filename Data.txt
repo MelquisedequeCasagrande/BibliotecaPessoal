@@ -1,0 +1,12 @@
+amigos.addAmigo("Diné");
+amigos.addAmigo("Sika");
+bib.addItem(new Livro(1, "HarryPotter", Disponibilidade.EMPRESTADO, "J.K Rowling", 300));
+bib.addItem(new Livro(2, "SunTzu A arte da guerra", Disponibilidade.EMPRESTADO, "Sun Tzu", 250));
+bib.addItem(new Manga(3, "Naruto", Disponibilidade.EMPRESTADO, "Masashi Kishimoto", 190));
+bib.addItem(new Manga(4, "Dragon Ball", Disponibilidade.DISPONIVEL, "Akira Toriyama", 200));
+bib.addItem(new Gibi(5, "Turma da Monica", Disponibilidade.EMPRESTADO, "Mauricio de Souza", 24));
+bib.addItem(new Gibi(6, "Homem Aranha", Disponibilidade.DISPONIVEL, "Stan Lee", 352));
+emprestimos.addEmprestimo(new Emprestimo(1, 2, LocalDate.parse("19/11/2021", dtf),LocalDate.parse("28/01/2022",dtf)));
+emprestimos.addEmprestimo(new Emprestimo(1, 3, LocalDate.parse("19/11/2021", dtf),LocalDate.parse("28/01/2022",dtf)));
+emprestimos.addEmprestimo(new Emprestimo(2, 5, LocalDate.parse("21/11/2021", dtf),LocalDate.parse("28/01/2022",dtf)));
+emprestimos.addEmprestimo(new Emprestimo(2, 1, LocalDate.parse("21/11/2021", dtf),LocalDate.parse("28/01/2022",dtf)));
